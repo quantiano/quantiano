@@ -1,6 +1,7 @@
 ### Hi there 👋, my name is Nitipoom
 #### I am a Computer Engineering student, Cloud, and Network Security major
-<p align="center">
+
+⠀<p align="center">
 ![I am a CPE student](https://media-exp1.licdn.com/dms/image/C5603AQGMGo7GCeCldg/profile-displayphoto-shrink_200_200/0/1655437366910?e=1663804800&v=beta&t=pB2uPt_rWNjFFh18mqam-cgITHMrgmzy6vDnVlNaEFA)
 !</p>
 
