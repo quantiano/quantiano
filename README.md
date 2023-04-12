@@ -1,19 +1,21 @@
 ### Hi there 👋, my name is Nitipoom
 #### I am a Computer Engineering student, Cloud, and Network Security major
 
-<center><a href="https://github.com/quantiano"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' style="filter: invert(1);"></a></center>
-<center><a href="https://www.linkedin.com/in/https://www.linkedin.com/in/ntppmm//"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' style="filter: invert(1);"></a></center>
-
 <p align="center">
   <img src="https://s31898.pcdn.co/wp-content/uploads/2022/10/AdobeStock_416057612-e1665052015417-800x430.jpg" alt="Hi">
 </p>
 
-I am currently a fourth-year CPE student at SIIT. Practice and develop a Reactjs and Nodejs website. Also Interesting and knowledgeable in Cyber Security as well.
+As a 4th-year CPE student at SIIT, I've had the opportunity to hone my skills in web development and Cyber Security. My primary focus is on creating seamless and innovative React and Node websites, while also ensuring the utmost security and protection for online users.
 
-Skills: NodeJS / ReactJS / Java / JS / PHP / SQL /HTML / CSS
+My proficiency in NodeJS and ReactJS allows me to craft intricate and dynamic web applications. I'm also well-versed in Java, JS, PHP, and SQL, which gives me the flexibility to work with various technologies and platforms. When it comes to web design, I have an eye for detail and strive to create sleek and functional layouts using HTML/CSS.
+
+If you're looking for someone who's passionate about web development and Cyber Security, and who's committed to delivering high-quality results, then look no further. Let's collaborate and build something great together!
 
 - 📫 How to reach me: ntppmm.work@gmail.com 
 - ⚡ Fun fact: burger
+
+<center><a href="https://github.com/quantiano"><img src='https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg' alt='github' height='40' style="fill:white;"></a></center>
+<center><a href="https://www.linkedin.com/in/https://www.linkedin.com/in/ntppmm//"><img src='https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png' alt='linkedin' height='40' style="fill:white;"></a></center>
 
 
 
