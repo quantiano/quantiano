@@ -13,6 +13,6 @@ Skills: NodeJS / ReactJS / Java / JS / PHP / SQL /HTML / CSS
 - ⚡ Fun fact: burger
 
 
-[<center><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></center>](https://github.com/quantiano)  
-[<center><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'></center>](https://www.linkedin.com/in/https://www.linkedin.com/in/ntppmm//)  
+<center><a href="https://github.com/quantiano"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a></center><center><a href="https://www.linkedin.com/in/https://www.linkedin.com/in/ntppmm//"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'></a></center>
+
 
