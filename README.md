@@ -1,12 +1,13 @@
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <h2 style="margin: 0;">Hi there 👋, my name is Nitipoom</h2>
   <div style="display: flex; justify-content: flex-end; align-items: center;">
-    <a href="https://github.com/quantiano"><img src='https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg' alt='github' height='40' style="fill:white;"></a>
-    <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/ntppmm//"><img src='https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png' alt='linkedin' height='40' style="fill:white;"></a>
+    <a href="https://github.com/quantiano"><md-icon class="fab fa-github" style="color: white;"></md-icon></a>
+    <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/ntppmm//"><md-icon class="fab fa-linkedin" style="color: white;"></md-icon></a>
   </div>
 </div>
 
 <h3>I am a Computer Engineering student, Cloud, and Network Security major</h3>
+
 
 
 <p align="center">
