@@ -3,8 +3,8 @@
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <h2 style="margin: 0;">Hi there 👋, my name is Nitipoom</h2>
   <div style="display: flex; justify-content: flex-end; align-items: center;">
-    <a href="https://github.com/quantiano"><i class="fab fa-github" style="color: white;"></i></a>
-    <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/ntppmm//"><i class="fab fa-linkedin" style="color: white;"></i></a>
+    <a href="https://github.com/quantiano"><i class="fab fa-github" style="fill: white;"></i></a>
+    <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/ntppmm//"><i class="fab fa-linkedin" style="fill: white;"></i></a>
   </div>
 </div>
 
