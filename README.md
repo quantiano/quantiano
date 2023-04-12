@@ -1,6 +1,6 @@
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<div style="position: relative;">
   <h2>Hi there 👋, my name is Nitipoom</h2>
-  <div style="margin-left: auto;">
+  <div style="position: absolute; top: 0; right: 0;">
     <a href="https://github.com/quantiano"><img src='https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg' alt='github' height='40' style="fill:white;"></a>
     <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/ntppmm//"><img src='https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png' alt='linkedin' height='40' style="fill:white;"></a>
   </div>
