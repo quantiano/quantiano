@@ -1,6 +1,12 @@
 ### Hi there 👋, my name is Nitipoom
 #### I am a Computer Engineering student, Cloud, and Network Security major
 
+<div style="float: right;">
+  <a href="https://github.com/quantiano"><img src='https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg' alt='github' height='40' style="fill:white;"></a>
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/ntppmm//"><img src='https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png' alt='linkedin' height='40' style="fill:white;"></a>
+</div>
+
+
 <p align="center">
   <img src="https://s31898.pcdn.co/wp-content/uploads/2022/10/AdobeStock_416057612-e1665052015417-800x430.jpg" alt="Hi">
 </p>
@@ -14,8 +20,7 @@ If you're looking for someone who's passionate about web development and Cyber S
 - 📫 How to reach me: ntppmm.work@gmail.com 
 - ⚡ Fun fact: burger
 
-<center><a href="https://github.com/quantiano"><img src='https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg' alt='github' height='40' style="fill:white;"></a></center>
-<center><a href="https://www.linkedin.com/in/https://www.linkedin.com/in/ntppmm//"><img src='https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png' alt='linkedin' height='40' style="fill:white;"></a></center>
+
 
 
 
