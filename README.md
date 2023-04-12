@@ -25,6 +25,10 @@ If you're looking for someone who's passionate about web development and Cyber S
 - 📫 How to reach me: ntppmm.work@gmail.com 
 - ⚡ Fun fact: burger
 
+ <div style="margin-left: auto;">
+    <a href="https://github.com/quantiano"><img src='https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg' alt='github' height='40' style="fill:white;"></a>
+    <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/ntppmm//"><img src='https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png' alt='linkedin' height='40' style="fill:white;"></a>
+  </div>
 
 
 
