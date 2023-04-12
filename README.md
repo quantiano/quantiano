@@ -1,8 +1,9 @@
 ### Hi there 👋, my name is Nitipoom
 #### I am a Computer Engineering student, Cloud, and Network Security major
 
-⠀<p align="center">
-![Hi]([image_url](https://s31898.pcdn.co/wp-content/uploads/2022/10/AdobeStock_416057612-e1665052015417-800x430.jpg))</p>
+<p align="center">
+  <img src="https://s31898.pcdn.co/wp-content/uploads/2022/10/AdobeStock_416057612-e1665052015417-800x430.jpg" alt="Hi">
+</p>
 
 I am currently a fourth-year CPE student at SIIT. Practice and develop a Reactjs and Nodejs website. Also Interesting and knowledgeable in Cyber Security as well.
 
