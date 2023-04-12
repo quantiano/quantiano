@@ -1,5 +1,15 @@
-### Hi there 👋, my name is Nitipoom
-#### I am a Computer Engineering student, Cloud, and Network Security major
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <h2>Hi there 👋, my name is Nitipoom</h2>
+  <div>
+    <a href="https://github.com/quantiano"><img src='https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg' alt='github' height='40' style="fill:white;"></a>
+    <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/ntppmm//"><img src='https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png' alt='linkedin' height='40' style="fill:white;"></a>
+  </div>
+</div>
+
+<h3>I am a Computer Engineering student, Cloud, and Network Security major</h3>
+
+<p>Insert your introduction paragraph here.</p>
+
 
 <div style="float: right;">
   <a href="https://github.com/quantiano"><img src='https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg' alt='github' height='40' style="fill:white;"></a>
