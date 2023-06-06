@@ -13,7 +13,7 @@
 
 
 <p align="center">
-  <img src="https://s31898.pcdn.co/wp-content/uploads/2022/10/AdobeStock_416057612-e1665052015417-800x430.jpg" alt="Hi">
+  <img src="[https://s31898.pcdn.co/wp-content/uploads/2022/10/AdobeStock_416057612-e1665052015417-800x430.jpg](https://w52425565.readyplanet.site/images/content/original-1577248360186.jpg)" alt="Hi">
 </p>
 
 As a 4th-year CPE student at SIIT, I've had the opportunity to hone my skills in web development and Cyber Security. My primary focus is on creating seamless and innovative React and Node websites, while also ensuring the utmost security and protection for online users.
