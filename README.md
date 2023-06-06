@@ -8,7 +8,7 @@
   </div>
 </div>
 
-<h3>I am a Computer Engineering student, Cloud, and Network Security major</h3>
+<h3>I am a Computer Engineering student, Cyber Security, Cloud engineer, and Network Security major</h3>
 
 
 
@@ -16,14 +16,10 @@
   <img src="https://w52425565.readyplanet.site/images/content/original-1577248360186.jpg" alt="Hi">
 </p>
 
-As a 4th-year CPE student at SIIT, I've had the opportunity to hone my skills in web development and Cyber Security. My primary focus is on creating seamless and innovative React and Node websites, while also ensuring the utmost security and protection for online users.
+As a 4th-year CPE student at SIIT, I've had the opportunity to hone my skills in web development and Cyber Security. My primary focus is on creating some React and Node websites, while also ensuring the security and protection my users.
 
-My proficiency in NodeJS and ReactJS allows me to craft intricate and dynamic web applications. I'm also well-versed in Java, JS, PHP, and SQL, which gives me the flexibility to work with various technologies and platforms. When it comes to web design, I have an eye for detail and strive to create sleek and functional layouts using HTML/CSS.
-
-If you're looking for someone who's passionate about web development and Cyber Security, and who's committed to delivering high-quality results, then look no further. Let's collaborate and build something great together!
 
 - 📫 How to reach me: ntppmm.work@gmail.com 
-- ⚡ Fun fact: burger
 
  <div style="margin-left: auto;">
     <a href="https://github.com/quantiano"><img src='https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg' alt='github' height='40' style="fill:white;"></a>
