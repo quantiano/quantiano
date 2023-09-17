@@ -19,7 +19,7 @@
 As a 4th-year CPE student at SIIT, I've had the opportunity to hone my skills in web development and Cyber Security. My primary focus is on creating some React and Node websites, while also ensuring the security and protection my users.
 
 
-- 📫 How to reach me: ntppmm.work@gmail.com 
+- 📫 How to reach me: nitipoom.jar@gmail.com 
 
  <div style="margin-left: auto;">
     <a href="https://github.com/quantiano"><img src='https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg' alt='github' height='40' style="fill:white;"></a>
